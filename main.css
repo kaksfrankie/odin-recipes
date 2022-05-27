@@ -10,6 +10,7 @@ body
 {
     padding: 10px;
     border: 15px;
+    background-image: linear-gradient(to left, rgba(0,224,104,0),rgba(0,224,104,1));
 }
 h1
 {
@@ -19,7 +20,8 @@ h1
 }
 
 .box
-{ 
+{  
+    background-image: linear-gradient(to left, rgba(0,224,104,0),rgba(0,224,104,1));
     margin-right: auto;
     margin-left: auto;
    align-self: center;
